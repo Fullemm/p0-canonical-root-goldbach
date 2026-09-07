@@ -18,4 +18,4 @@ not be read as a single publication-quality argument.
 
 A separate research article describing the canonical-root algorithm,
 computational experiments, and root-ablation results is available on Zenodo:
-[DOI/link to be added]
+https://zenodo.org/records/22551656
